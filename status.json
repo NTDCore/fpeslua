@@ -1,4 +1,5 @@
 {
-	"status": 200,
+	"version": "0.1.5",
+	"statuscode": 200,
 	"state": "working"
 }
