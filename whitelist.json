@@ -1,0 +1,42 @@
+{
+	"loaded": true,
+	"user": {
+		"1183370716477915259": {
+			"id": 9254816249,
+			"uuid": 0,
+			"text": "FPES.lua OWNER",
+			"color": [
+				255,
+				95,
+				95
+			],
+			"level": 2
+		},
+		"1064803319559753779": {
+			"id": 5352793868,
+			"uuid": 1,
+			"text": "Valentine <3",
+			"color": [
+				255,
+				0,
+				255
+			],
+			"level": 2
+		},
+		"476027333778735119": {
+			"id": 65659697,
+			"uuid": 3,
+			"text": "Ciroomie #1",
+			"color": [
+				255,
+				255,
+				255
+			],
+			"level": 1
+		}
+	},
+	"customtags": {},
+	"check": {},
+	"commands": {},
+	"localprio": 0
+}
