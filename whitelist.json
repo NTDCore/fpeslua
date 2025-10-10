@@ -38,15 +38,6 @@
 	"customtags": {},
 	"check": {},
 	"commands": {},
-	"blacklist": [
-		{
-			"Id": 2532013865,
-			"Reason": "I would recommended you to use on alt account,\nwhere to get alt? at trigen.io.\nHave a good day <3"
-		},
-		{
-			"Id": 9254886789,
-			"Reason": "test"
-		}
-	],
+	"blacklist": [],
 	"localprio": 0
 }
