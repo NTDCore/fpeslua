@@ -273,12 +273,12 @@ return {
 	["BlockRequest"] = {
 		["Unreliable"] = false,
 		["ClientEvent"] = {
-			["Id"] = "^",
+			["Id"] = "_",
 			["Fire"] = function() end,
 			["On"] = function() end,
 			["Unreliable"] = false,
 		},
-		["Id"] = "^",
+		["Id"] = "_",
 		["Client"] = function() end,
 		["Validate"] = function() end,
 		["Server"] = function() end,
