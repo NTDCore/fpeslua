@@ -1,1 +1,1334 @@
-{"QuickTeleport":{"Unreliable":false,"ClientEvent":{"Id":"\u0004","Fire":null,"On":null,"Unreliable":false},"Id":"\u0004","Client":null,"Validate":null,"Server":null},"HalloweenCandy":{"Unreliable":false,"ClientEvent":{"Id":"\t","Fire":null,"On":null,"Unreliable":false},"Id":"\t","Client":null,"Validate":null,"Server":null},"Misc3":{"StatUpdate":{"Unreliable":false,"ClientEvent":{"Id":"S","Fire":null,"On":null,"Unreliable":false},"Id":"S","Client":null,"Validate":null,"Server":null},"CamPic":{"Unreliable":false,"ClientEvent":{"Id":"W","Fire":null,"On":null,"Unreliable":false},"Id":"W","Client":null,"Validate":null,"Server":null},"PlaySound":{"Unreliable":false,"ClientEvent":{"Id":"V","Fire":null,"On":null,"Unreliable":false},"Id":"V","Client":null,"Validate":null,"Server":null},"Flicker":{"Unreliable":false,"ClientEvent":{"Id":"Z","Fire":null,"On":null,"Unreliable":false},"Id":"Z","Client":null,"Validate":null,"Server":null},"DistanceShake":{"Unreliable":false,"ClientEvent":{"Id":"[","Fire":null,"On":null,"Unreliable":false},"Id":"[","Client":null,"Validate":null,"Server":null},"MenuTrigger":{"Unreliable":false,"ClientEvent":{"Id":"U","Fire":null,"On":null,"Unreliable":false},"Id":"U","Client":null,"Validate":null,"Server":null},"CameraCooldown":{"Unreliable":false,"ClientEvent":{"Id":"Y","Fire":null,"On":null,"Unreliable":false},"Id":"Y","Client":null,"Validate":null,"Server":null},"TogglePrompts":{"Unreliable":false,"ClientEvent":{"Id":"T","Fire":null,"On":null,"Unreliable":false},"Id":"T","Client":null,"Validate":null,"Server":null},"Blind":{"Unreliable":false,"ClientEvent":{"Id":"X","Fire":null,"On":null,"Unreliable":false},"Id":"X","Client":null,"Validate":null,"Server":null}},"DeltaShardsChanged":{"Unreliable":false,"ClientEvent":{"Id":"\u0006","Fire":null,"On":null,"Unreliable":false},"Id":"\u0006","Client":null,"Validate":null,"Server":null},"Misc2":{"RoundSummary":{"Unreliable":false,"ClientEvent":{"Id":"L","Fire":null,"On":null,"Unreliable":false},"Id":"L","Client":null,"Validate":null,"Server":null},"FinishedTest":{"Unreliable":false,"ClientEvent":{"Id":"P","Fire":null,"On":null,"Unreliable":false},"Id":"P","Client":null,"Validate":null,"Server":null},"ResetButtonEnabled":{"Unreliable":false,"ClientEvent":{"Id":"M","Fire":null,"On":null,"Unreliable":false},"Id":"M","Client":null,"Validate":null,"Server":null},"DisplaySystemMsg":{"Unreliable":false,"ClientEvent":{"Id":"O","Fire":null,"On":null,"Unreliable":false},"Id":"O","Client":null,"Validate":null,"Server":null},"CycleTrigger":{"Unreliable":false,"ClientEvent":{"Id":"K","Fire":null,"On":null,"Unreliable":false},"Id":"K","Client":null,"Validate":null,"Server":null},"Clock":{"Unreliable":false,"ClientEvent":{"Id":"N","Fire":null,"On":null,"Unreliable":false},"Id":"N","Client":null,"Validate":null,"Server":null},"StartTest":{"Unreliable":false,"ClientEvent":{"Id":"Q","Fire":null,"On":null,"Unreliable":false},"Id":"Q","Client":null,"Validate":null,"Server":null},"SendNotification":{"Unreliable":false,"ClientEvent":{"Id":"R","Fire":null,"On":null,"Unreliable":false},"Id":"R","Client":null,"Validate":null,"Server":null}},"GamemodeJoinRequest":{"Unreliable":false,"Id":"`","Client":null,"Validate":null,"Server":null},"BlockRequest":{"Unreliable":false,"ClientEvent":{"Id":"_","Fire":null,"On":null,"Unreliable":false},"Id":"_","Client":null,"Validate":null,"Server":null},"FootstepSFX":{"Unreliable":false,"ClientEvent":{"Id":"\u0007","Fire":null,"On":null,"Unreliable":false},"Id":"\u0007","Client":null,"Validate":null,"Server":null},"Settings":{"ButtonPositions":{"Unreliable":false,"ClientEvent":{"Id":"2","Fire":null,"On":null,"Unreliable":false},"Id":"2","Client":null,"Validate":null,"Server":null},"Create":{"Unreliable":false,"Id":"0","Client":null,"Validate":null,"Server":null},"Update":{"Unreliable":false,"ClientEvent":{"Id":"1","Fire":null,"On":null,"Unreliable":false},"Id":"1","Client":null,"Validate":null,"Server":null}},"OnServerError":{"Unreliable":false,"ClientEvent":{"Id":"\n","Fire":null,"On":null,"Unreliable":false},"Id":"\n","Client":null,"Validate":null,"Server":null},"Command":{"Unreliable":false,"Id":"\u0003","Client":null,"Validate":null,"Server":null},"DeathScreen":{"Unreliable":false,"ClientEvent":{"Id":"d","Fire":null,"On":null,"Unreliable":false},"Id":"d","Client":null,"Validate":null,"Server":null},"Quest":{"Unreliable":false,"ClientEvent":{"Id":"\u0002","Fire":null,"On":null,"Unreliable":false},"Id":"\u0002","Client":null,"Validate":null,"Server":null},"AFK":{"Unreliable":false,"Id":"\u0001","Client":null,"Validate":null,"Server":null},"CharacterRemoving":{"Unreliable":false,"Id":"^","Client":null,"Validate":null,"Server":null},"Loaded":{"Unreliable":false,"ClientEvent":{"Id":"e","Fire":null,"On":null,"Unreliable":false},"Id":"e","Client":null,"Validate":null,"Server":null},"DoorLocked":{"Unreliable":false,"ClientEvent":{"Id":"\b","Fire":null,"On":null,"Unreliable":false},"Id":"\b","Client":null,"Validate":null,"Server":null},"Misc":{"BatHit":{"Unreliable":false,"ClientEvent":{"Id":">","Fire":null,"On":null,"Unreliable":false},"Id":">","Client":null,"Validate":null,"Server":null},"Ragdoll":{"Unreliable":false,"ClientEvent":{"Id":"J","Fire":null,"On":null,"Unreliable":false},"Id":"J","Client":null,"Validate":null,"Server":null},"UseOreoBar":{"Unreliable":false,"ClientEvent":{"Id":"A","Fire":null,"On":null,"Unreliable":false},"Id":"A","Client":null,"Validate":null,"Server":null},"Flashlight":{"Unreliable":false,"ClientEvent":{"Id":"?","Fire":null,"On":null,"Unreliable":false},"Id":"?","Client":null,"Validate":null,"Server":null},"Dismiss":{"Unreliable":false,"ClientEvent":{"Id":"=","Fire":null,"On":null,"Unreliable":false},"Id":"=","Client":null,"Validate":null,"Server":null},"CameraToggle":{"Unreliable":false,"ClientEvent":{"Id":"8","Fire":null,"On":null,"Unreliable":false},"Id":"8","Client":null,"Validate":null,"Server":null},"CreateTitle":{"Unreliable":false,"ClientEvent":{"Id":"I","Fire":null,"On":null,"Unreliable":false},"Id":"I","Client":null,"Validate":null,"Server":null},"TweenItem":{"Unreliable":false,"ClientEvent":{"Id":"9","Fire":null,"On":null,"Unreliable":false},"Id":"9","Client":null,"Validate":null,"Server":null},"TeleportPlayer":{"Unreliable":false,"ClientEvent":{"Id":"C","Fire":null,"On":null,"Unreliable":false},"Id":"C","Client":null,"Validate":null,"Server":null},"KillEffect":{"Unreliable":false,"ClientEvent":{"Id":";","Fire":null,"On":null,"Unreliable":false},"Id":";","Client":null,"Validate":null,"Server":null},"HealPotion":{"Unreliable":false,"ClientEvent":{"Id":"G","Fire":null,"On":null,"Unreliable":false},"Id":"G","Client":null,"Validate":null,"Server":null},"StaminaChange":{"Id":"F","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":{"Root":{"Callback":null}}},"ToggleMovement":{"Unreliable":false,"ClientEvent":{"Id":"D","Fire":null,"On":null,"Unreliable":false},"Id":"D","Client":null,"Validate":null,"Server":null},"OnPurchase":{"Unreliable":false,"ClientEvent":{"Id":"H","Fire":null,"On":null,"Unreliable":false},"Id":"H","Client":null,"Validate":null,"Server":null},"ToolbarVisibility":{"Unreliable":false,"ClientEvent":{"Id":"E","Fire":null,"On":null,"Unreliable":false},"Id":"E","Client":null,"Validate":null,"Server":null},"Input":{"Id":"<","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":[]},"UseHealPotion":{"Unreliable":false,"ClientEvent":{"Id":"@","Fire":null,"On":null,"Unreliable":false},"Id":"@","Client":null,"Validate":null,"Server":null},"Polaroid":{"Unreliable":false,"ClientEvent":{"Id":"B","Fire":null,"On":null,"Unreliable":false},"Id":"B","Client":null,"Validate":null,"Server":null},"Effect":{"Unreliable":false,"ClientEvent":{"Id":":","Fire":null,"On":null,"Unreliable":false},"Id":":","Client":null,"Validate":null,"Server":null}},"Teacher":{"Enrage":{"Unreliable":false,"ClientEvent":{"Id":"\u001F","Fire":null,"On":null,"Unreliable":false},"Id":"\u001F","Client":null,"Validate":null,"Server":null},"AmmoUpdate":{"Unreliable":false,"ClientEvent":{"Id":"\u001D","Fire":null,"On":null,"Unreliable":false},"Id":"\u001D","Client":null,"Validate":null,"Server":null},"InstDoorOpen":{"Unreliable":false,"ClientEvent":{"Id":"-","Fire":null,"On":null,"Unreliable":false},"Id":"-","Client":null,"Validate":null,"Server":null},"AbilityUI_Update":{"Id":"\"","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":{"Root":{"Callback":null}}},"UpdatePounceState":{"Unreliable":false,"ClientEvent":{"Id":"(","Fire":null,"On":null,"Unreliable":false},"Id":"(","Client":null,"Validate":null,"Server":null},"UpdateChargeState":{"Unreliable":false,"ClientEvent":{"Id":")","Fire":null,"On":null,"Unreliable":false},"Id":")","Client":null,"Validate":null,"Server":null},"EnragedVisibility":{"Unreliable":false,"ClientEvent":{"Id":"#","Fire":null,"On":null,"Unreliable":false},"Id":"#","Client":null,"Validate":null,"Server":null},"BloomieBar":{"Unreliable":false,"ClientEvent":{"Id":"&","Fire":null,"On":null,"Unreliable":false},"Id":"&","Client":null,"Validate":null,"Server":null},"Instinct":{"Unreliable":false,"ClientEvent":{"Id":",","Fire":null,"On":null,"Unreliable":false},"Id":",","Client":null,"Validate":null,"Server":null},"Tips":{"Unreliable":false,"ClientEvent":{"Id":" ","Fire":null,"On":null,"Unreliable":false},"Id":" ","Client":null,"Validate":null,"Server":null},"PounceFail":{"Unreliable":false,"ClientEvent":{"Id":"+","Fire":null,"On":null,"Unreliable":false},"Id":"+","Client":null,"Validate":null,"Server":null},"PounceHit":{"Unreliable":false,"ClientEvent":{"Id":"*","Fire":null,"On":null,"Unreliable":false},"Id":"*","Client":null,"Validate":null,"Server":null},"Blocked":{"Unreliable":false,"ClientEvent":{"Id":"\u001E","Fire":null,"On":null,"Unreliable":false},"Id":"\u001E","Client":null,"Validate":null,"Server":null},"ReplicateBlade":{"Unreliable":false,"ClientEvent":{"Id":"'","Fire":null,"On":null,"Unreliable":false},"Id":"'","Client":null,"Validate":null,"Server":null},"ReturnPrompt":{"Unreliable":false,"ClientEvent":{"Id":"%","Fire":null,"On":null,"Unreliable":false},"Id":"%","Client":null,"Validate":null,"Server":null},"ChargeRegister":{"Unreliable":false,"ClientEvent":{"Id":"$","Fire":null,"On":null,"Unreliable":false},"Id":"$","Client":null,"Validate":null,"Server":null},"AbilityCooldown":{"Id":"!","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":{"Root":{"Callback":null}}}},"GiftEvent":{"Unreliable":false,"ClientEvent":{"Id":"a","Fire":null,"On":null,"Unreliable":false},"Id":"a","Client":null,"Validate":null,"Server":null},"Shop":{"Sell":{"Unreliable":false,"ClientEvent":{"Id":"7","Fire":null,"On":null,"Unreliable":false},"Id":"7","Client":null,"Validate":null,"Server":null},"Buy":{"Unreliable":false,"ClientEvent":{"Id":"6","Fire":null,"On":null,"Unreliable":false},"Id":"6","Client":null,"Validate":null,"Server":null}},"CharacterAdded":{"Unreliable":false,"ClientEvent":{"Id":"]","Fire":null,"On":null,"Unreliable":false},"Id":"]","Client":null,"Validate":null,"Server":null},"SetLookAngles":{"Unreliable":false,"ClientEvent":{"Id":"c","Fire":null,"On":null,"Unreliable":false},"Id":"c","Client":null,"Validate":null,"Server":null},"AdminPanelClient":{"Unreliable":false,"Id":"\u0005","Client":null,"Validate":null,"Server":null},"AllLights":{"Unreliable":false,"ClientEvent":{"Id":"\\","Fire":null,"On":null,"Unreliable":false},"Id":"\\","Client":null,"Validate":null,"Server":null},"Alice":{"Cutscene":{"Unreliable":false,"ClientEvent":{"Id":"\u001B","Fire":null,"On":null,"Unreliable":false},"Id":"\u001B","Client":null,"Validate":null,"Server":null},"Jumpscare":{"Unreliable":false,"ClientEvent":{"Id":"\u0019","Fire":null,"On":null,"Unreliable":false},"Id":"\u0019","Client":null,"Validate":null,"Server":null},"Phase2":{"TentacleGround":{"Unreliable":false,"ClientEvent":{"Id":"\u0014","Fire":null,"On":null,"Unreliable":false},"Id":"\u0014","Client":null,"Validate":null,"Server":null},"DoorCrouch":{"Unreliable":false,"ClientEvent":{"Id":"\u0017","Fire":null,"On":null,"Unreliable":false},"Id":"\u0017","Client":null,"Validate":null,"Server":null},"Spikes":{"Id":"\u0011","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":{"Root":{"Callback":null,"Next":{"Callback":null}}}},"SpiderCrawl":{"Unreliable":false,"ClientEvent":{"Id":"\u0013","Fire":null,"On":null,"Unreliable":false},"Id":"\u0013","Client":null,"Validate":null,"Server":null},"UpdateTentaclePosition":{"Unreliable":false,"ClientEvent":{"Id":"\u0016","Fire":null,"On":null,"Unreliable":false},"Id":"\u0016","Client":null,"Validate":null,"Server":null},"IntroFinished":{"Unreliable":false,"ClientEvent":{"Id":"\u0015","Fire":null,"On":null,"Unreliable":false},"Id":"\u0015","Client":null,"Validate":null,"Server":null},"DemonVision":{"Unreliable":false,"ClientEvent":{"Id":"\u0012","Fire":null,"On":null,"Unreliable":false},"Id":"\u0012","Client":null,"Validate":null,"Server":null}},"InsideAliceRoom":{"Unreliable":false,"ClientEvent":{"Id":"\u0018","Fire":null,"On":null,"Unreliable":false},"Id":"\u0018","Client":null,"Validate":null,"Server":null},"Phase1":{"Teleport":{"Unreliable":false,"ClientEvent":{"Id":"\r","Fire":null,"On":null,"Unreliable":false},"Id":"\r","Client":null,"Validate":null,"Server":null},"ChargeGrab":{"Unreliable":false,"ClientEvent":{"Id":"\u000B","Fire":null,"On":null,"Unreliable":false},"Id":"\u000B","Client":null,"Validate":null,"Server":null},"SpikeR":{"Unreliable":false,"ClientEvent":{"Id":"\u0010","Fire":null,"On":null,"Unreliable":false},"Id":"\u0010","Client":null,"Validate":null,"Server":null},"Retreat":{"Unreliable":false,"Id":"\u000E","Client":null,"Validate":null,"Server":null},"SpikeT":{"Unreliable":false,"ClientEvent":{"Id":"\u000F","Fire":null,"On":null,"Unreliable":false},"Id":"\u000F","Client":null,"Validate":null,"Server":null},"GrabVictim":{"Unreliable":false,"ClientEvent":{"Id":"\f","Fire":null,"On":null,"Unreliable":false},"Id":"\f","Client":null,"Validate":null,"Server":null}},"CreateUI":{"Unreliable":false,"ClientEvent":{"Id":"\u001C","Fire":null,"On":null,"Unreliable":false},"Id":"\u001C","Client":null,"Validate":null,"Server":null},"Seen":{"Unreliable":false,"ClientEvent":{"Id":"\u001A","Fire":null,"On":null,"Unreliable":false},"Id":"\u001A","Client":null,"Validate":null,"Server":null}},"Skins":{"Equip":{"Unreliable":false,"ClientEvent":{"Id":"5","Fire":null,"On":null,"Unreliable":false},"Id":"5","Client":null,"Validate":null,"Server":null},"Purchase":{"Unreliable":false,"ClientEvent":{"Id":"3","Fire":null,"On":null,"Unreliable":false},"Id":"3","Client":null,"Validate":null,"Server":null},"Update":{"Unreliable":false,"ClientEvent":{"Id":"4","Fire":null,"On":null,"Unreliable":false},"Id":"4","Client":null,"Validate":null,"Server":null}},"Hitboxes":{"State":{"Id":".","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":[]},"OnHit":{"Id":"/","FireClients":null,"OnClient":null,"FireFilteredClients":null,"FireClient":null,"OnServer":null,"FireAllClientsExcept":null,"FireServer":null,"FireAllClients":null,"CallMode":"Signal","Unreliable":false,"Signal":[]}},"ThrowLibraryBook":{"Unreliable":false,"ClientEvent":{"Id":"b","Fire":null,"On":null,"Unreliable":false},"Id":"b","Client":null,"Validate":null,"Server":null},"SkinModelLoader":{"Unreliable":false,"ClientEvent":{"Id":"f","Fire":null,"On":null,"Unreliable":false},"Id":"f","Client":null,"Validate":null,"Server":null}}
+{
+	"QuickTeleport": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\u0004",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\u0004",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"HalloweenCandy": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\t",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\t",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Misc3": {
+		"StatUpdate": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "S",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "S",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"CamPic": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "W",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "W",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"PlaySound": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "V",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "V",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Flicker": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "Z",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "Z",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"DistanceShake": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "[",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "[",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"MenuTrigger": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "U",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "U",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"CameraCooldown": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "Y",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "Y",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"TogglePrompts": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "T",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "T",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Blind": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "X",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "X",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"DeltaShardsChanged": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\u0006",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\u0006",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Misc2": {
+		"RoundSummary": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "L",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "L",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"FinishedTest": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "P",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "P",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"ResetButtonEnabled": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "M",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "M",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"DisplaySystemMsg": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "O",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "O",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"CycleTrigger": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "K",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "K",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Clock": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "N",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "N",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"StartTest": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "Q",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "Q",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"SendNotification": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "R",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "R",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"GamemodeJoinRequest": {
+		"Unreliable": false,
+		"Id": "`",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"BlockRequest": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "_",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "_",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"FootstepSFX": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\u0007",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\u0007",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Settings": {
+		"ButtonPositions": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "2",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "2",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Create": {
+			"Unreliable": false,
+			"Id": "0",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Update": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "1",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "1",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"OnServerError": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\n",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\n",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Command": {
+		"Unreliable": false,
+		"Id": "\u0003",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"DeathScreen": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "d",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "d",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Quest": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\u0002",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\u0002",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"AFK": {
+		"Unreliable": false,
+		"Id": "\u0001",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"CharacterRemoving": {
+		"Unreliable": false,
+		"Id": "^",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Loaded": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "e",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "e",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"DoorLocked": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\b",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\b",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Misc": {
+		"BatHit": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": ">",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": ">",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Ragdoll": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "J",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "J",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"UseOreoBar": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "A",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "A",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Flashlight": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "?",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "?",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Dismiss": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "=",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "=",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"CameraToggle": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "8",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "8",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"CreateTitle": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "I",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "I",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"TweenItem": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "9",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "9",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"TeleportPlayer": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "C",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "C",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"KillEffect": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": ";",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": ";",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"HealPotion": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "G",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "G",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"StaminaChange": {
+			"Id": "F",
+			"FireClients": null,
+			"OnClient": null,
+			"FireFilteredClients": null,
+			"FireClient": null,
+			"OnServer": null,
+			"FireAllClientsExcept": null,
+			"FireServer": null,
+			"FireAllClients": null,
+			"CallMode": "Signal",
+			"Unreliable": false,
+			"Signal": {
+				"Root": {
+					"Callback": null
+				}
+			}
+		},
+		"ToggleMovement": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "D",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "D",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"OnPurchase": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "H",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "H",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"ToolbarVisibility": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "E",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "E",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Input": {
+			"Id": "<",
+			"FireClients": null,
+			"OnClient": null,
+			"FireFilteredClients": null,
+			"FireClient": null,
+			"OnServer": null,
+			"FireAllClientsExcept": null,
+			"FireServer": null,
+			"FireAllClients": null,
+			"CallMode": "Signal",
+			"Unreliable": false,
+			"Signal": []
+		},
+		"UseHealPotion": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "@",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "@",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Polaroid": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "B",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "B",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Effect": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": ":",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": ":",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"Teacher": {
+		"Enrage": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u001f",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u001f",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"AmmoUpdate": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u001d",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u001d",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"InstDoorOpen": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "-",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "-",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"AbilityUI_Update": {
+			"Id": "\"",
+			"FireClients": null,
+			"OnClient": null,
+			"FireFilteredClients": null,
+			"FireClient": null,
+			"OnServer": null,
+			"FireAllClientsExcept": null,
+			"FireServer": null,
+			"FireAllClients": null,
+			"CallMode": "Signal",
+			"Unreliable": false,
+			"Signal": {
+				"Root": {
+					"Callback": null
+				}
+			}
+		},
+		"UpdatePounceState": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "(",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "(",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"UpdateChargeState": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": ")",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": ")",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"EnragedVisibility": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "#",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "#",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"BloomieBar": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "&",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "&",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Instinct": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": ",",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": ",",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Tips": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": " ",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": " ",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"PounceFail": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "+",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "+",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"PounceHit": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "*",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "*",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Blocked": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u001e",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u001e",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"ReplicateBlade": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "'",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "'",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"ReturnPrompt": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "%",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "%",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"ChargeRegister": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "$",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "$",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"AbilityCooldown": {
+			"Id": "!",
+			"FireClients": null,
+			"OnClient": null,
+			"FireFilteredClients": null,
+			"FireClient": null,
+			"OnServer": null,
+			"FireAllClientsExcept": null,
+			"FireServer": null,
+			"FireAllClients": null,
+			"CallMode": "Signal",
+			"Unreliable": false,
+			"Signal": {
+				"Root": {
+					"Callback": null
+				}
+			}
+		}
+	},
+	"GiftEvent": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "a",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "a",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Shop": {
+		"Sell": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "7",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "7",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Buy": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "6",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "6",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"CharacterAdded": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "]",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "]",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"SetLookAngles": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "c",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "c",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"AdminPanelClient": {
+		"Unreliable": false,
+		"Id": "\u0005",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"AllLights": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "\\",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "\\",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"Alice": {
+		"Cutscene": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u001b",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u001b",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Jumpscare": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u0019",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u0019",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Phase2": {
+			"TentacleGround": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0014",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0014",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"DoorCrouch": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0017",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0017",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"Spikes": {
+				"Id": "\u0011",
+				"FireClients": null,
+				"OnClient": null,
+				"FireFilteredClients": null,
+				"FireClient": null,
+				"OnServer": null,
+				"FireAllClientsExcept": null,
+				"FireServer": null,
+				"FireAllClients": null,
+				"CallMode": "Signal",
+				"Unreliable": false,
+				"Signal": {
+					"Root": {
+						"Callback": null,
+						"Next": {
+							"Callback": null
+						}
+					}
+				}
+			},
+			"SpiderCrawl": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0013",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0013",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"UpdateTentaclePosition": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0016",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0016",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"IntroFinished": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0015",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0015",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"DemonVision": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0012",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0012",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			}
+		},
+		"InsideAliceRoom": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u0018",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u0018",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Phase1": {
+			"Teleport": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\r",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\r",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"ChargeGrab": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u000b",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u000b",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"SpikeR": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u0010",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u0010",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"Retreat": {
+				"Unreliable": false,
+				"Id": "\u000e",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"SpikeT": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\u000f",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\u000f",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			},
+			"GrabVictim": {
+				"Unreliable": false,
+				"ClientEvent": {
+					"Id": "\f",
+					"Fire": null,
+					"On": null,
+					"Unreliable": false
+				},
+				"Id": "\f",
+				"Client": null,
+				"Validate": null,
+				"Server": null
+			}
+		},
+		"CreateUI": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u001c",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u001c",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Seen": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "\u001a",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "\u001a",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"Skins": {
+		"Equip": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "5",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "5",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Purchase": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "3",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "3",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		},
+		"Update": {
+			"Unreliable": false,
+			"ClientEvent": {
+				"Id": "4",
+				"Fire": null,
+				"On": null,
+				"Unreliable": false
+			},
+			"Id": "4",
+			"Client": null,
+			"Validate": null,
+			"Server": null
+		}
+	},
+	"Hitboxes": {
+		"State": {
+			"Id": ".",
+			"FireClients": null,
+			"OnClient": null,
+			"FireFilteredClients": null,
+			"FireClient": null,
+			"OnServer": null,
+			"FireAllClientsExcept": null,
+			"FireServer": null,
+			"FireAllClients": null,
+			"CallMode": "Signal",
+			"Unreliable": false,
+			"Signal": []
+		},
+		"OnHit": {
+			"Id": "/",
+			"FireClients": null,
+			"OnClient": null,
+			"FireFilteredClients": null,
+			"FireClient": null,
+			"OnServer": null,
+			"FireAllClientsExcept": null,
+			"FireServer": null,
+			"FireAllClients": null,
+			"CallMode": "Signal",
+			"Unreliable": false,
+			"Signal": []
+		}
+	},
+	"ThrowLibraryBook": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "b",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "b",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	},
+	"SkinModelLoader": {
+		"Unreliable": false,
+		"ClientEvent": {
+			"Id": "f",
+			"Fire": null,
+			"On": null,
+			"Unreliable": false
+		},
+		"Id": "f",
+		"Client": null,
+		"Validate": null,
+		"Server": null
+	}
+}
