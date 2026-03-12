@@ -27,6 +27,11 @@
 	"customtags": {},
 	"check": {},
 	"commands": {},
-	"blacklist": [],
+	"blacklist": [
+		{
+			"Id": 8049135605,
+			"Reason": "Disturbing Development"
+		}
+	],
 	"localprio": 0
 }
