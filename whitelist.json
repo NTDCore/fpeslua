@@ -27,11 +27,6 @@
 	"customtags": {},
 	"check": {},
 	"commands": {},
-	"blacklist": [
-		{
-			"Id": 8527568322,
-			"Reason": "shhhh you dont know the secret :)\ndiscord.gg/mf2V9JsRWV"
-		}
-	],
+	"blacklist": [],
 	"localprio": 0
 }
