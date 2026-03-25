@@ -17,7 +17,7 @@ local QuizData = {
 			}
 		},
 		{
-			Question = 'What is 9 + 10?',
+			Question = 'What is 9',
 			Answers = {
 				[19] = true,
 				[9] = false,
@@ -146,7 +146,7 @@ local QuizData = {
 			}
 		},
 		{
-			Question = 'At what temperature does water freeze (In Fahrenheit)?',
+			Question = 'At what temperature does water freeze',
 			Answers = {
 				['32'] = true,
 				['0'] = false,
