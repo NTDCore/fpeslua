@@ -27,6 +27,11 @@
 	"customtags": {},
 	"check": {},
 	"commands": {},
-	"blacklist": [],
+	"blacklist": [
+		{
+			"Id": 8527568322,
+			"Reason": "peekaboo!\ndiscord.gg/mf2V9JsRWV"
+		}
+	],
 	"localprio": 0
 }
