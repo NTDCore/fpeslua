@@ -1,0 +1,377 @@
+{
+	"A+ Attendance": {
+		"Description": "Play %s round(s)",
+		"Difficulty": "Hard",
+		"Disabled": false,
+		"Goal": 6,
+		"Id": 28,
+		"Name": "A+ Attendance",
+		"Owner": "Oliver",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 100
+		},
+		"UnderOneRound": false
+	},
+	"A+ Student": {
+		"Description": "Pass %s Tests",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": 5,
+		"Id": 11,
+		"Name": "A+ Student",
+		"Owner": "Edward",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"B Student": {
+		"Description": "Pass 1 Test",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 2,
+		"Name": "B Student",
+		"Owner": "Edward",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"B+ Attendance": {
+		"Description": "Play %s round(s)",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": 4,
+		"Id": 27,
+		"Name": "B+ Attendance",
+		"Owner": "Oliver",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"Back of the class": {
+		"Description": "Use %s consumables (i.e. Heal Potions, Oreo Bars)",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": 3,
+		"Id": 10,
+		"Name": "Back of the class",
+		"Owner": "Edward",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Book!": {
+		"Description": "Throw a Book at a Teacher",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 7,
+		"Name": "Book!",
+		"Owner": "Oliver",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Boom, headshot.": {
+		"Description": "Hit %s Headshot(s) as Bloomie",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": 1,
+		"Id": 14,
+		"Name": "Boom, headshot.",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"C+ Attendance": {
+		"Description": "Play %s round(s)",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": 2,
+		"Id": 26,
+		"Name": "C+ Attendance",
+		"Owner": "Oliver",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Circle the Impaler": {
+		"Description": "Get %s kill(s) using Circle's Lunge",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": 7,
+		"Id": 29,
+		"Name": "Circle the Impaler",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"Close Call": {
+		"Description": "Dodge Bloomie's Projectile under 45 health",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 16,
+		"Name": "Close Call",
+		"Owner": "Oliver",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"Detention": {
+		"Description": "Get %s kills as a Teacher in 1 round",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": 5,
+		"Id": 9,
+		"Name": "Detention",
+		"Owner": "Oliver",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": true
+	},
+	"Explusion": {
+		"Description": "Get %s kill(s) as a Teacher in 1 round",
+		"Difficulty": "Hard",
+		"Disabled": false,
+		"Goal": 25,
+		"Id": 23,
+		"Name": "Explusion",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 100
+		},
+		"UnderOneRound": true
+	},
+	"Grace's saving grace.": {
+		"Description": "Power up a generator during a Blackout",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 17,
+		"Name": "Grace's saving grace.",
+		"Owner": "Edward",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"Greater Instinct": {
+		"Description": "Dodge Thavel's pounce once",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 5,
+		"Name": "Greater Instinct",
+		"Owner": "Zip",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Greater Senses": {
+		"Description": "Dodge Bloomie's projectile once",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 6,
+		"Name": "Greater Senses",
+		"Owner": "Zip",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"I'M NOT GONNA SUGERCOAT IT": {
+		"Description": "Block a Teacher %s times",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": 4,
+		"Id": 12,
+		"Name": "I'M NOT GONNA SUGERCOAT IT",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	},
+	"Low Class Average": {
+		"Description": "Stay enraged as Circle for %s second(s)",
+		"Difficulty": "Hard",
+		"Disabled": false,
+		"Goal": 60,
+		"Id": 24,
+		"Name": "Low Class Average",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 100
+		},
+		"UnderOneRound": false
+	},
+	"Meet the Sniper": {
+		"Description": "Hit %s Headshot(s) as Bloomie",
+		"Difficulty": "Hard",
+		"Disabled": false,
+		"Goal": 8,
+		"Id": 20,
+		"Name": "Meet the Sniper",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 100
+		},
+		"UnderOneRound": false
+	},
+	"Pressure is Better": {
+		"Description": "Destroy %s Door(s) as a Teacher",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": 5,
+		"Id": 15,
+		"Name": "Pressure is Better",
+		"Owner": "Oliver",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Retaliation": {
+		"Description": "Block a Teacher once",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 3,
+		"Name": "Retaliation",
+		"Owner": "Oliver",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Smile!": {
+		"Description": "Take a photo of a teacher",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 8,
+		"Name": "Smile!",
+		"Owner": "Oliver",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Student Kebab": {
+		"Description": "Get 3 kill(s) using Circle's Lunge",
+		"Difficulty": "Easy",
+		"Disabled": false,
+		"Goal": 3,
+		"Id": 1,
+		"Name": "Student Kebab",
+		"Owner": "Zip",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 50
+		},
+		"UnderOneRound": false
+	},
+	"Suspension": {
+		"Description": "Get %s kill(s) as a Teacher in 1 round",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": 10,
+		"Id": 19,
+		"Name": "Suspension",
+		"Owner": "Oliver",
+		"Progress": 0,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": true
+	},
+	"Untouchable": {
+		"Description": "Play through a full round without taking damage either as a Student, Teacher, or Alice",
+		"Difficulty": "Hard",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 25,
+		"Name": "Untouchable",
+		"Owner": "Oliver",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 100
+		},
+		"UnderOneRound": false
+	},
+	"Yearbook Photographer": {
+		"Description": " Take a photo of each Teacher using 1 Polaroid Camera",
+		"Difficulty": "Intermediate",
+		"Disabled": false,
+		"Goal": true,
+		"Id": 18,
+		"Name": "Yearbook Photographer",
+		"Owner": "Oliver",
+		"Progress": false,
+		"ResetOnLeave": false,
+		"Rewards": {
+			"DeltaShards": 75
+		},
+		"UnderOneRound": false
+	}
+}
