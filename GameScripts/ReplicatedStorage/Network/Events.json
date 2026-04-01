@@ -1,6 +1,12 @@
 {
 	"AdminPanelClient": {
 		"Client": null,
+		"ClientEvent": {
+			"Fire": null,
+			"Id": "\u0005",
+			"On": null,
+			"Unreliable": false
+		},
 		"Id": "\u0005",
 		"Server": null,
 		"Unreliable": false,
