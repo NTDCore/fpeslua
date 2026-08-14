@@ -2,7 +2,7 @@
 	"loaded": true,
 	"user": {
 		"1183370716477915259": {
-			"id": 9951704730,
+			"id": 7275617557,
 			"uuid": 0,
 			"text": "FPES.luau OWNER",
 			"color": [
@@ -27,11 +27,6 @@
 	"customtags": {},
 	"check": {},
 	"commands": {},
-	"blacklist": [
-		{
-			"Id": 9666492185,
-			"Reason": "kaboom"
-		}
-	],
+	"blacklist": [],
 	"localprio": 0
 }
