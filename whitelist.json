@@ -27,6 +27,11 @@
 	"customtags": {},
 	"check": {},
 	"commands": {},
-	"blacklist": [],
+	"blacklist": [
+		{
+			"Id": 2601432833,
+			"Reason": "Hello, World!"
+		}
+	],
 	"localprio": 0
 }
