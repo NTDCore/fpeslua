@@ -29,7 +29,7 @@
 	"commands": {},
 	"blacklist": [
 		{
-			"Id": 2601432833,
+			"Id": 0,
 			"Reason": "Hello, World!"
 		}
 	],
